@@ -1,6 +1,6 @@
 # Mercado Harmim
 
-Landing page institucional desenvolvida para um mercadinho de bairro localizado em Curitiba/PR.
+Landing page institucional desenvolvida para um mercadinho de bairro localizado em Mandirituba/PR.
 
 ## Objetivo
 Apresentar o mercado online de forma moderna, simples e acessível.
